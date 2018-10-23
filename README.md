@@ -16,6 +16,7 @@
    
    10/23/18
    * How long did it take your team to complete this exercise? 
+   
    About an hour
 
 ## Table of Contents
