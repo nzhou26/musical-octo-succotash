@@ -7,9 +7,9 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1:  nzhou26     name 1:Ningkun Zhou
-       * GitHub username 2:  tneschke     name 2: Teague Neschke
-       * GitHub username 3:       name 3:
+       * GitHub username 1:  nzhou26     name 1: Ningkun Zhou
+       * GitHub username 2:  tneschke    name 2: Teague Neschke
+       * GitHub username 3:  julin00     name 3: Julin Peng
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
