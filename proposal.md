@@ -56,7 +56,7 @@ Ningkun Zhou, Tuesday (there are two strings)
 
 text fields for name and drop down menu for avialability
 
-result will be text showing group members and group number
+Result will be text showing group members and group number
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
