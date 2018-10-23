@@ -1,4 +1,4 @@
-# X-Team NN Project Proposal
+# classGroupMaker
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -29,28 +29,49 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Paring group making for class groups
+Algrithm that put students based on avialability and then nested arrays that hold groups information
 
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+classGroupMaker
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
+Array containning the groups of students
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
+name and avialabilty of each students
+
+For example: 
+
+Ningkun Zhou, Tuesday (there are two strings)
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+text fields for name and drop down menu for avialability
+
+result will be text showing group members and group number
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+
+
+classGroupMaker(): constructor that creats nested array of groups and an array containing pre-sorted student information
+
+makeGroups(): sort function that creats groups based on provided information
+
+displayGroup(): accessor method that get the students information and group assignment
+
+addStudents(): method that add individual students information to array
+
+
+
 
 
 
