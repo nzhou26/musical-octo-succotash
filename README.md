@@ -1,4 +1,4 @@
-# xteam-exercise-2: https://github.com/nzhou26/musical-octo-succotash
+# xteam-89-exercise-2: https://github.com/nzhou26/musical-octo-succotash
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
